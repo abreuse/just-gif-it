@@ -1,8 +1,7 @@
+# Just Gif It !
+
 ## About
-Start of Just-Gif-It for Pluralsight course Spring Boot: Efficient Development, Configuration, and Deployment
 
-UI: AngularJS + WebPack + ES6 (ES2015)
-Backend: Spring Boot + JavaCV + Animated-Gif-Lib
+This project comes from the PluralSight course `https://app.pluralsight.com/library/courses/spring-boot-efficient-development-configuration-deployment/table-of-contents`
 
-## License
-Version 2.0 of the Apache License
+All credits goes to Dustin Schultz `https://github.com/dustinschultz`
